@@ -5,7 +5,6 @@ Content created by Kassandra Lenters and Eden Beronio
 
 <br>
 <br>
-<br>
 
 ###Ladies Learning Code slide deck template
 
