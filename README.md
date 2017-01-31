@@ -1,6 +1,8 @@
 #Code Mobile
 ##Welcome Slides
 
+Preview URL: https://kasslent.github.io/codemobile-welcome-slides/slides.html#slide1
+
 Content created by Kassandra Lenters and Eden Beronio
 
 <br>
