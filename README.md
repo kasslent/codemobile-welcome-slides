@@ -3,6 +3,8 @@
 
 Preview URL: https://kasslent.github.io/codemobile-welcome-slides/slides.html#slide1
 
+2-Player Pong: <a href="https://docs.google.com/document/d/1I8kGUgO3pCb1hjULyXse-Q119xVzhhgo_ZxJ1yuB_4s/edit?usp=sharing">Solution Sheet</a>
+
 Content created by Kassandra Lenters and Eden Beronio
 
 <br>
