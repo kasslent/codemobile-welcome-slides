@@ -1,11 +1,11 @@
 # Code Mobile
-## Welcome Slides
+## Gamemaking with Scratch
 
-Preview URL: https://kasslent.github.io/codemobile-welcome-slides/slides.html#slide1
+Preview Slides: https://kasslent.github.io/codemobile-welcome-slides/slides.html
 
-Catch 'Em Game: <a href="https://docs.google.com/document/d/1AQNH-EQUEVi8GGe_lpqPpLaNOU2F5Rx0u0srs5nB-k0/edit?usp=sharing">Solution Sheet</a>
+Escape Game - Simplified (1 hour): <a href="https://docs.google.com/document/d/1wYOQ-OcaKxYpzc3myC1MWzan-vPKda642PuX4XYUZao/edit?usp=sharing">Solution Sheet</a>
 
-Content created by Kassandra Lenters and Eden Beronio
+Content created by Kassandra Lenters and Eden Beronio.
 
 <br>
 <br>
